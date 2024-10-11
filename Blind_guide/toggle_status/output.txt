@@ -1,0 +1,52 @@
+frame 0 : a window with a light shining through it
+frame 5 : a man in a suit
+frame 10 : a metal refrigerator with a door open
+frame 15 : a stainless steel refrigerator
+frame 20 : a metal refrigerator
+frame 25 : a silver refrigerator
+frame 30 : a stainless steel refrigerator
+frame 35 : a refrigerator with a door open
+frame 40 : a metal refrigerator with a light shining on it
+frame 45 : a silver refrigerator
+frame 50 : a stainless steel refrigerator
+frame 55 : a silver refrigerator
+frame 60 : a microwave oven with a microwave in it
+frame 65 : a silver refrigerator
+frame 70 : a silver refrigerator
+frame 75 : a silver refrigerator
+frame 80 : a silver refrigerator
+frame 85 : a stainless steel refrigerator
+frame 90 : a silver refrigerator
+frame 95 : a silver refrigerator
+frame 100 : a refrigerator with a light on it
+frame 105 : a silver refrigerator
+frame 110 : a silver refrigerator
+frame 115 : a silver refrigerator
+frame 120 : a silver refrigerator
+frame 125 : a microwave oven with a microwave in it
+frame 130 : a black refrigerator
+frame 135 : a window in a building
+frame 140 : a window in a room
+frame 145 : a window in a room
+frame 150 : a person is sitting on a plane
+frame 155 : a black laptop
+frame 160 : a black shirt with a white logo on it
+frame 165 : a black shirt with a white logo on it
+frame 170 : a black shirt with a white logo on it
+frame 175 : a black shirt with a white logo on it
+frame 180 : a man in a black shirt and tie
+frame 185 : a man in a suit and tie is standing in front of a mirror
+frame 190 : a black shirt with a white logo on it
+frame 195 : a black shirt with a white logo on it
+frame 200 : a black shirt with a white logo on it
+frame 205 : a black shirt with a white logo on it
+frame 210 : a man in a suit and tie is holding a microphone
+frame 215 : a man in a suit and tie is standing in front of a mirror
+frame 220 : a man in a suit and tie is standing in front of a mirror
+frame 225 : a black shirt with a white logo on it
+frame 230 : a man in a suit and tie is standing in front of a mirror
+frame 235 : a black shirt with a white logo on it
+frame 240 : a black shirt with a white logo on it
+frame 245 : a black shirt with a white logo on it
+frame 250 : a black shirt with a white collar and a white collar
+frame 255 : a black shirt with a white logo on it
